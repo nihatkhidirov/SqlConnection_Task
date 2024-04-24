@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM_Migrations_Task", "ORM_Migrations_Task.csproj", "{AFDC2EF2-8BE4-4BCA-853E-88C2C270E8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDC2EF2-8BE4-4BCA-853E-88C2C270E8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDC2EF2-8BE4-4BCA-853E-88C2C270E8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDC2EF2-8BE4-4BCA-853E-88C2C270E8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDC2EF2-8BE4-4BCA-853E-88C2C270E8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {186F6F46-A361-429B-B215-D46CECCDF619}
+	EndGlobalSection
+EndGlobal
